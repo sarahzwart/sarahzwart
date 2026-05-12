@@ -3,6 +3,7 @@
 Control Systems Programmer at **USIS AudioVisual** building touch panel UIs for Crestron control systems. Based in the **New York metropolitan area** and currently looking for **full stack developer roles**.
 
 **What I'm working on:**
+- Creating a component library for touch panel UI's using React, Typescript, HTML, & TailwindCSS
 - Building touch panel UIs for Crestron control systems using React, TypeScript, HTML & TailwindCSS
 - Building a full stack mobile app with React Native, Expo, Supabase & Google OAuth (private repo)
 
