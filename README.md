@@ -1,18 +1,22 @@
-## Hello World I'm Sarah
+# Hi, I'm Sarah Zwart 🐱
 
-<!--
-**sarahzwart/sarahzwart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Control Systems Programmer at **USIS AudioVisual** building touch panel UIs for Crestron control systems. Based in the **New York metropolitan area** and currently looking for **full stack developer roles**.
 
-Here are some ideas to get you started:
+**What I'm working on:**
+- Building touch panel UIs for Crestron control systems using React, TypeScript, HTML & TailwindCSS
+- Building a full stack mobile app with React Native, Expo, Supabase & Google OAuth (private repo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:**
 
-I am currently a Control Systems Programmer at USIS AudioVisual. At my company I am currently working on building user interfaces for Crestron touch panels in React, Typescript, HTML, & CSS/TailwindCSS to communicate with Crestron control processors. 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+## Get In Touch
+
+Feel free to explore my repositories or reach out!
