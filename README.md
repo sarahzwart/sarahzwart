@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World I'm Sarah
 
 <!--
 **sarahzwart/sarahzwart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently a Control Systems Programmer at USIS AudioVisual. At my company I am currently working on building user interfaces for Crestron touch panels in React, Typescript, HTML, & CSS/TailwindCSS to communicate with Crestron control processors. 
