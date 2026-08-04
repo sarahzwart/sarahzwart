@@ -35,7 +35,7 @@ Based in the New York metropolitan area and currently seeking **full stack** or 
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: [linkedin.com/in/sarah-zwart](https://linkedin.com/in/sarah-zwart)
 - Email: sarahczwart@gmail.com
