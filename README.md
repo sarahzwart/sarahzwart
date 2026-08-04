@@ -6,7 +6,7 @@ Based in the New York metropolitan area and currently seeking **full stack** or 
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 - A reusable component library for Crestron touch panel UIs using React, TypeScript, TailwindCSS, and HTML
 - Custom touch panel interfaces for enterprise AV control systems
@@ -14,7 +14,7 @@ Based in the New York metropolitan area and currently seeking **full stack** or 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -26,7 +26,7 @@ Based in the New York metropolitan area and currently seeking **full stack** or 
 
 ---
 
-## 💡 Interests
+## Interests
 
 - Frontend Engineering
 - Mobile App Development
